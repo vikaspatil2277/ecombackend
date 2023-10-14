@@ -5,7 +5,9 @@ const app = express()
 const connectDB = require("./config/database")
 const usersRouter = require("./route/users")
 const productsRouter = require("./route/products")
+require('dotenv').config();
 
+const port=8000
 const cors = require("cors")
 
 app.use(cors({
@@ -22,12 +24,17 @@ app.get("/", (req, res) => {
     res.send("Hello")
 })
 
-app.listen(8000, async () => {
-    try {
-        await connectDB()
-        console.log("Server is running at port 8000")
+const startConnection=async ()=>{
+    try{
+        await connectDB(process.env.Mongo_URL)
+        app.listen(port,()=>{
+            console.log("server is running on port 8000")
+        })
     }
-    catch (err) {
-        console.log(`Error in the server ${err}`)
+
+    catch(err){
+        console.log(err)
     }
-})
+}
+
+startConnection()
