@@ -491,141 +491,143 @@ const data = [
     { id: 480, category: "books", subCategory: "schooltextbooks", productImage1: "https://m.media-amazon.com/images/I/816emu+VEvL.jpg", productImage2: "https://m.media-amazon.com/images/I/61obKy4-I4L.jpg", productImage3: "https://m.media-amazon.com/images/I/61eGLBU9sYL.jpg", productTitle: "MTG International General Knowledge Olympiad (IGKO) Workbook for Class 3 - MCQs & Achievers Section - SOF IGKO Olympiad Preparation Books For 2023-2024 Exam", productPrice: 99, rating: 4.1 },
 ]
 
-const addData = async (req, res) => {
-    await productsModel.insertMany(data)
-    res.send("Data added successfully")
-}
-const allData = async (req, res) => {
-    const data = await productsModel.find()
-    res.send(data)
-}
-const electronics = async (req, res) => {
-    const data = await productsModel.find({ category: "electronics" })
-    res.send(data)
-}
-const cellPhonesAndAccessories = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "cellphonesandaccessories" })
-    res.send(data)
-}
-const computersAndAccessories = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "computersandaccessories" })
-    res.send(data)
-}
-const headphones = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "headphones" })
-    res.send(data)
-}
-const televisionAndVideo = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "televisionandvideo" })
-    res.send(data)
-}
-const smartHome = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "smarthome" })
-    res.send(data)
-}
-const fashion = async (req, res) => {
-    const data = await productsModel.find({ category: "fashion" })
-    res.send(data)
-}
-const mensFashion = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "mensfashion" })
-    res.send(data)
-}
-const womensFashion = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "womensfashion" })
-    res.send(data)
-}
-const kidsFashion = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "kidsfashion" })
-    res.send(data)
-}
-const homeAndKitchen = async (req, res) => {
-    const data = await productsModel.find({ category: "homeandkitchen" })
-    res.send(data)
-}
-const kitchenAndDining = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "kitchenanddining" })
-    res.send(data)
-}
-const furniture = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "furniture" })
-    res.send(data)
-}
-const homeDecor = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "homedecor" })
-    res.send(data)
-}
-const storageAndOrganization = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "storageandorganization" })
-    res.send(data)
-}
-const healthAndPersonalCare = async (req, res) => {
-    const data = await productsModel.find({ category: "healthandpersonalcare" })
-    res.send(data)
-}
-const householdSupplies = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "householdsupplies" })
-    res.send(data)
-}
-const beautyToolsAndAccessories = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "beautytoolsandaccessories" })
-    res.send(data)
-}
-const dietAndNutrition = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "dietandnutrition" })
-    res.send(data)
-}
-const personalCareAppliances = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "personalcareappliances" })
-    res.send(data)
-}
-const sports = async (req, res) => {
-    const data = await productsModel.find({ category: "sports" })
-    res.send(data)
-}
-const cricket = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "cricket" })
-    res.send(data)
-}
-const badminton = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "badminton" })
-    res.send(data)
-}
-const football = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "football" })
-    res.send(data)
-}
-const yoga = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "yoga" })
-    res.send(data)
-}
-const campingAndHiking = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "campingandhiking" })
-    res.send(data)
-}
-const strengthTraining = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "strengthtraining" })
-    res.send(data)
-}
-const books = async (req, res) => {
-    const data = await productsModel.find({ category: "books" })
-    res.send(data)
-}
-const fictionBooks = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "fictionbooks" })
-    res.send(data)
-}
-const editorsCorner = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "editorscorner" })
-    res.send(data)
-}
-const indianLanguageBooks = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "indianlanguagebooks" })
-    res.send(data)
-}
-const schoolTextbooks = async (req, res) => {
-    const data = await productsModel.find({ subCategory: "schooltextbooks" })
-    res.send(data)
-}
+// const addData = async (req, res) => {
+//     await productsModel.insertMany(data)
+//     res.send("Data added successfully")
+// }
+// const allData = async (req, res) => {
+//     const data = await productsModel.find()
+//     res.send(data)
+// }
+// const electronics = async (req, res) => {
+//     const data = await productsModel.find({ category: "electronics" })
+//     res.send(data)
+// }
+// const cellPhonesAndAccessories = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "cellphonesandaccessories" })
+//     res.send(data)
+// }
+// const computersAndAccessories = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "computersandaccessories" })
+//     res.send(data)
+// }
+// const headphones = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "headphones" })
+//     res.send(data)
+// }
+// const televisionAndVideo = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "televisionandvideo" })
+//     res.send(data)
+// }
+// const smartHome = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "smarthome" })
+//     res.send(data)
+// }
+// const fashion = async (req, res) => {
+//     const data = await productsModel.find({ category: "fashion" })
+//     res.send(data)
+// }
+// const mensFashion = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "mensfashion" })
+//     res.send(data)
+// }
+// const womensFashion = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "womensfashion" })
+//     res.send(data)
+// }
+// const kidsFashion = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "kidsfashion" })
+//     res.send(data)
+// }
+// const homeAndKitchen = async (req, res) => {
+//     const data = await productsModel.find({ category: "homeandkitchen" })
+//     res.send(data)
+// }
+// const kitchenAndDining = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "kitchenanddining" })
+//     res.send(data)
+// }
+// const furniture = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "furniture" })
+//     res.send(data)
+// }
+// const homeDecor = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "homedecor" })
+//     res.send(data)
+// }
+// const storageAndOrganization = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "storageandorganization" })
+//     res.send(data)
+// }
+// const healthAndPersonalCare = async (req, res) => {
+//     const data = await productsModel.find({ category: "healthandpersonalcare" })
+//     res.send(data)
+// }
+// const householdSupplies = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "householdsupplies" })
+//     res.send(data)
+// }
+// const beautyToolsAndAccessories = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "beautytoolsandaccessories" })
+//     res.send(data)
+// }
+// const dietAndNutrition = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "dietandnutrition" })
+//     res.send(data)
+// }
+// const personalCareAppliances = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "personalcareappliances" })
+//     res.send(data)
+// }
+// const sports = async (req, res) => {
+//     const data = await productsModel.find({ category: "sports" })
+//     res.send(data)
+// }
+// const cricket = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "cricket" })
+//     res.send(data)
+// }
+// const badminton = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "badminton" })
+//     res.send(data)
+// }
+// const football = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "football" })
+//     res.send(data)
+// }
+// const yoga = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "yoga" })
+//     res.send(data)
+// }
+// const campingAndHiking = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "campingandhiking" })
+//     res.send(data)
+// }
+// const strengthTraining = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "strengthtraining" })
+//     res.send(data)
+// }
+// const books = async (req, res) => {
+//     const data = await productsModel.find({ category: "books" })
+//     res.send(data)
+// }
+// const fictionBooks = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "fictionbooks" })
+//     res.send(data)
+// }
+// const editorsCorner = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "editorscorner" })
+//     res.send(data)
+// }
+// const indianLanguageBooks = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "indianlanguagebooks" })
+//     res.send(data)
+// }
+// const schoolTextbooks = async (req, res) => {
+//     const data = await productsModel.find({ subCategory: "schooltextbooks" })
+//     res.send(data)
+// }
 
-module.exports = { addData, allData, electronics, cellPhonesAndAccessories, computersAndAccessories, headphones, televisionAndVideo, smartHome, fashion, mensFashion, womensFashion, kidsFashion, homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks }
+// module.exports = { addData, allData, electronics, cellPhonesAndAccessories, computersAndAccessories, headphones, televisionAndVideo, smartHome, fashion, mensFashion, womensFashion, kidsFashion, homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks }
+
+module.exports={data}
