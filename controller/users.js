@@ -12,7 +12,7 @@ const register = async (req, res) => {
     if (existingUser !== null) {
         return res.send("User already registered Please try to login")
     }
-    const hashedPassword = bcrypt.hashSync(userInfo.password, saltRounds)
+    const hashedPassword = await bcrypt.hash(userInfo.password, saltRounds)
     userInfo.password = hashedPassword
 
     const data = await usersModel.create(userInfo)

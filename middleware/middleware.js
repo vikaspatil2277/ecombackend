@@ -1,15 +1,24 @@
-const secretkey = "vikaspatil";
-const jwt = require('jsonwebtoken');
+
+const jwt = require("jsonwebtoken");
 
 const verifyUser = (req, res, next) => {
-    const bearerToken = req.headers["authorization"]
-    if (bearerToken === undefined) {
-        res.send("Unauthorized Person")
+    const data = req.headers["authorization"];
+
+    if (!data) {
+        return res.status(401).send({ msg: "Authorization header missing" });
     }
-    const token = bearerToken.split(" ")[1]
-    console.log(bearerToken)
-    jwt.verify(token, secretkey);
-    next();
-}
+
+    const token = data.split(" ")[1];
+
+    try {
+        const verify = jwt.verify(token, process.env.SECRET_KEY);
+        if (verify) {
+            return next();
+        }
+    } catch (error) {
+        return res.status(401).send({ msg: "User is not Authorized" });
+    }
+};
+
 
 module.exports = verifyUser;
