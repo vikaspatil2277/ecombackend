@@ -1,7 +1,7 @@
 const { usersModel } = require("../model/users")
 const bcrypt = require("bcryptjs");
 const saltRounds = 10;
-const secretKey = "tarun sharma";
+const secretKey = "vikaspatil";
 const jwt = require("jsonwebtoken");
 
 
