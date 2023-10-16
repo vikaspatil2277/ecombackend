@@ -96,7 +96,6 @@ const data = [
     { id: 88, category: "electronics", subCategory: "smarthome", productImage1: "https://m.media-amazon.com/images/I/513puen7X3L._SL1500_.jpg", productImage2: "https://m.media-amazon.com/images/I/71UqSg8EqWL._SL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/718qTUb7faL._SL1500_.jpg", productTitle: "winPlus Wireless Door Bell for Home Long Range, Waterproof Calling Bell for Office, Self-Powered Battery Free Cordless Door Bell, up to 1000ft Range with 32 Chimes, LED Light, 4-Level Volume（White 1 Transmitter & 2 Receivers）", productPrice: 1899, rating: 3.6 },
     { id: 89, category: "electronics", subCategory: "smarthome", productImage1: "https://m.media-amazon.com/images/I/61LOXIR83SL._SL1000_.jpg", productImage2: "https://m.media-amazon.com/images/I/71cV-ickxOL._SL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/61lPcAKY+vL._SL1500_.jpg", productTitle: "All-New Echo Dot (5th Gen, 2023 release) | Smart speaker with Bigger sound, Motion Detection, Temperature Sensor, Alexa and Bluetooth| Blue", productPrice: 5499, rating: 4.5 },
     { id: 90, category: "electronics", subCategory: "smarthome", productImage1: "https://m.media-amazon.com/images/I/61QnbFC35UL._SL1000_.jpg", productImage2: "https://m.media-amazon.com/images/I/51C+FWhW9xL._SL1000_.jpg", productImage3: "https://m.media-amazon.com/images/I/61Fq+sUtZcL._SL1000_.jpg", productTitle: "Echo Show 8 (2nd Gen, 2021 release)- Smart speaker with 8 HD screen, stereo sound & hands - free entertainment with Alexa(Black) ", productPrice: 13999, rating: 4.8 },
-  
     { id: 91, category: "fashion", subCategory: "fashion", productImage1: "https://m.media-amazon.com/images/I/61+OnW2GPGL._UL1440_.jpg", productImage2: "https://m.media-amazon.com/images/I/61--63BPmlL._UL1440_.jpg", productImage3: "https://m.media-amazon.com/images/I/61zzbO6HklL._UL1440_.jpg", productTitle: "BULLMER Mens Cotton Henley Neck/Chinese Collar Tshirt", productPrice: 354, rating: 4.1 },
     { id: 92, category: "fashion", subCategory: "fashion", productImage1: "https://m.media-amazon.com/images/I/61fzbOrJyML._UL1500_.jpg", productImage2: "https://m.media-amazon.com/images/I/61Ck+vrpocL._UL1440_.jpg", productImage3: "https://m.media-amazon.com/images/I/61EMUpVDj7L._UL1440_.jpg", productTitle: "ATICX Men's Slim Fit Polyester Sleeveless T Shirt - Sando Top Tank Muscle Tee for Sports, Gym, Running", productPrice: 249, rating: 4 },
     { id: 93, category: "fashion", subCategory: "fashion", productImage1: "https://m.media-amazon.com/images/I/71V0UjkEnpL._UL1500_.jpg", productImage2: "https://m.media-amazon.com/images/I/81Ag3+FM-TL._UL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/71KNiM4dNKL._UL1500_.jpg", productTitle: "Maniac Mens Printed Round Neck Half Sleeve Purple and White Cotton Oversized T-Shirt", productPrice: 599, rating: 3.9 },
@@ -112,7 +111,6 @@ const data = [
     { id: 103, category: "fashion", subCategory: "fashion", productImage1: "https://m.media-amazon.com/images/I/51YUdTGQZtL.jpg", productImage2: "https://m.media-amazon.com/images/I/61DB1xBOUyL._UL1024_.jpg", productImage3: "https://m.media-amazon.com/images/I/61YQNQoQU4L._UL1024_.jpg", productTitle: "GRECIILOOKS Women's Casual Digital Printed Shirt Ruffle Sleeve Tops | Floral Printed Shaded Shirt for Women |Casual Short Sleeve Oversized Blouses Tops", productPrice: 299, rating: 3.5 },
     { id: 104, category: "fashion", subCategory: "fashion", productImage1: "https://m.media-amazon.com/images/I/71D71aU1zxL._UL1198_.jpg", productImage2: "https://m.media-amazon.com/images/I/71vxEWqxuNL._UL1198_.jpg", productImage3: "https://m.media-amazon.com/images/I/71YvI0JBoKL._UL1198_.jpg", productTitle: "REORIA Women’s Sexy Sleeveless Racer Back Halter Neck Bodysuit Tank Tops", productPrice: 299, rating: 4.3 },
     { id: 105, category: "fashion", subCategory: "fashion", productImage1: "https://m.media-amazon.com/images/I/6109c+c00qL._UX522_.jpg", productImage2: "https://m.media-amazon.com/images/I/618CPRmzIIL._UL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/51Gn0stHLrL._UL1500_.jpg", productTitle: "OM SAI LATEST CREATION Women's Lycra Striped Tie-Dye T-Shirt for Women Western Tees Travel, Casual, Night Wear Western Tops", productPrice: 349, rating: 4.5 },
-   
     { id: 106, category: "fashion", subCategory: "mensfashion", productImage1: "https://m.media-amazon.com/images/I/712XTTg1j6L._UL1500_.jpg", productImage2: "https://m.media-amazon.com/images/I/71xExo9YsiL._UL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/71E9ZoTvltL._UL1500_.jpg", productTitle: "Amazon Brand - Symbol Men Polo Shirt", productPrice: 499, rating: 4.1 },
     { id: 107, category: "fashion", subCategory: "mensfashion", productImage1: "https://m.media-amazon.com/images/I/71j++pbaQ9L._UL1500_.jpg", productImage2: "https://m.media-amazon.com/images/I/61BcpA1lgeL._UL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/61vlnRsV7gL._UL1500_.jpg", productTitle: "LEOTUDE Oversized Half Sleeve Printed Men's Combo T-Shirt (Pack of 2)", productPrice: 494, rating: 4.1 },
     { id: 108, category: "fashion", subCategory: "mensfashion", productImage1: "https://m.media-amazon.com/images/I/81pPCgAKvCL._UL1500_.jpg", productImage2: "https://m.media-amazon.com/images/I/71hhJcmPMSL._UL1500_.jpg", productImage3: "https://m.media-amazon.com/images/I/91S9jyTikBL._UL1500_.jpg", productTitle: "Allen Solly Casual Shirt", productPrice: 799, rating: 4.5 },
@@ -491,143 +489,141 @@ const data = [
     { id: 480, category: "books", subCategory: "schooltextbooks", productImage1: "https://m.media-amazon.com/images/I/816emu+VEvL.jpg", productImage2: "https://m.media-amazon.com/images/I/61obKy4-I4L.jpg", productImage3: "https://m.media-amazon.com/images/I/61eGLBU9sYL.jpg", productTitle: "MTG International General Knowledge Olympiad (IGKO) Workbook for Class 3 - MCQs & Achievers Section - SOF IGKO Olympiad Preparation Books For 2023-2024 Exam", productPrice: 99, rating: 4.1 },
 ]
 
-// const addData = async (req, res) => {
-//     await productsModel.insertMany(data)
-//     res.send("Data added successfully")
-// }
-// const allData = async (req, res) => {
-//     const data = await productsModel.find()
-//     res.send(data)
-// }
-// const electronics = async (req, res) => {
-//     const data = await productsModel.find({ category: "electronics" })
-//     res.send(data)
-// }
-// const cellPhonesAndAccessories = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "cellphonesandaccessories" })
-//     res.send(data)
-// }
-// const computersAndAccessories = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "computersandaccessories" })
-//     res.send(data)
-// }
-// const headphones = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "headphones" })
-//     res.send(data)
-// }
-// const televisionAndVideo = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "televisionandvideo" })
-//     res.send(data)
-// }
-// const smartHome = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "smarthome" })
-//     res.send(data)
-// }
-// const fashion = async (req, res) => {
-//     const data = await productsModel.find({ category: "fashion" })
-//     res.send(data)
-// }
-// const mensFashion = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "mensfashion" })
-//     res.send(data)
-// }
-// const womensFashion = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "womensfashion" })
-//     res.send(data)
-// }
-// const kidsFashion = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "kidsfashion" })
-//     res.send(data)
-// }
-// const homeAndKitchen = async (req, res) => {
-//     const data = await productsModel.find({ category: "homeandkitchen" })
-//     res.send(data)
-// }
-// const kitchenAndDining = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "kitchenanddining" })
-//     res.send(data)
-// }
-// const furniture = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "furniture" })
-//     res.send(data)
-// }
-// const homeDecor = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "homedecor" })
-//     res.send(data)
-// }
-// const storageAndOrganization = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "storageandorganization" })
-//     res.send(data)
-// }
-// const healthAndPersonalCare = async (req, res) => {
-//     const data = await productsModel.find({ category: "healthandpersonalcare" })
-//     res.send(data)
-// }
-// const householdSupplies = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "householdsupplies" })
-//     res.send(data)
-// }
-// const beautyToolsAndAccessories = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "beautytoolsandaccessories" })
-//     res.send(data)
-// }
-// const dietAndNutrition = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "dietandnutrition" })
-//     res.send(data)
-// }
-// const personalCareAppliances = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "personalcareappliances" })
-//     res.send(data)
-// }
-// const sports = async (req, res) => {
-//     const data = await productsModel.find({ category: "sports" })
-//     res.send(data)
-// }
-// const cricket = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "cricket" })
-//     res.send(data)
-// }
-// const badminton = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "badminton" })
-//     res.send(data)
-// }
-// const football = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "football" })
-//     res.send(data)
-// }
-// const yoga = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "yoga" })
-//     res.send(data)
-// }
-// const campingAndHiking = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "campingandhiking" })
-//     res.send(data)
-// }
-// const strengthTraining = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "strengthtraining" })
-//     res.send(data)
-// }
-// const books = async (req, res) => {
-//     const data = await productsModel.find({ category: "books" })
-//     res.send(data)
-// }
-// const fictionBooks = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "fictionbooks" })
-//     res.send(data)
-// }
-// const editorsCorner = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "editorscorner" })
-//     res.send(data)
-// }
-// const indianLanguageBooks = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "indianlanguagebooks" })
-//     res.send(data)
-// }
-// const schoolTextbooks = async (req, res) => {
-//     const data = await productsModel.find({ subCategory: "schooltextbooks" })
-//     res.send(data)
-// }
+const addData = async (req, res) => {
+    await productsModel.insertMany(data)
+    res.send("Data added successfully")
+}
+const allData = async (req, res) => {
+    const data = await productsModel.find()
+    res.send(data)
+}
+const electronics = async (req, res) => {
+    const data = await productsModel.find({ category: "electronics" })
+    res.send(data)
+}
+const cellPhonesAndAccessories = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "cellphonesandaccessories" })
+    res.send(data)
+}
+const computersAndAccessories = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "computersandaccessories" })
+    res.send(data)
+}
+const headphones = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "headphones" })
+    res.send(data)
+}
+const televisionAndVideo = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "televisionandvideo" })
+    res.send(data)
+}
+const smartHome = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "smarthome" })
+    res.send(data)
+}
+const fashion = async (req, res) => {
+    const data = await productsModel.find({ category: "fashion" })
+    res.send(data)
+}
+const mensFashion = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "mensfashion" })
+    res.send(data)
+}
+const womensFashion = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "womensfashion" })
+    res.send(data)
+}
+const kidsFashion = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "kidsfashion" })
+    res.send(data)
+}
+const homeAndKitchen = async (req, res) => {
+    const data = await productsModel.find({ category: "homeandkitchen" })
+    res.send(data)
+}
+const kitchenAndDining = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "kitchenanddining" })
+    res.send(data)
+}
+const furniture = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "furniture" })
+    res.send(data)
+}
+const homeDecor = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "homedecor" })
+    res.send(data)
+}
+const storageAndOrganization = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "storageandorganization" })
+    res.send(data)
+}
+const healthAndPersonalCare = async (req, res) => {
+    const data = await productsModel.find({ category: "healthandpersonalcare" })
+    res.send(data)
+}
+const householdSupplies = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "householdsupplies" })
+    res.send(data)
+}
+const beautyToolsAndAccessories = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "beautytoolsandaccessories" })
+    res.send(data)
+}
+const dietAndNutrition = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "dietandnutrition" })
+    res.send(data)
+}
+const personalCareAppliances = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "personalcareappliances" })
+    res.send(data)
+}
+const sports = async (req, res) => {
+    const data = await productsModel.find({ category: "sports" })
+    res.send(data)
+}
+const cricket = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "cricket" })
+    res.send(data)
+}
+const badminton = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "badminton" })
+    res.send(data)
+}
+const football = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "football" })
+    res.send(data)
+}
+const yoga = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "yoga" })
+    res.send(data)
+}
+const campingAndHiking = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "campingandhiking" })
+    res.send(data)
+}
+const strengthTraining = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "strengthtraining" })
+    res.send(data)
+}
+const books = async (req, res) => {
+    const data = await productsModel.find({ category: "books" })
+    res.send(data)
+}
+const fictionBooks = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "fictionbooks" })
+    res.send(data)
+}
+const editorsCorner = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "editorscorner" })
+    res.send(data)
+}
+const indianLanguageBooks = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "indianlanguagebooks" })
+    res.send(data)
+}
+const schoolTextbooks = async (req, res) => {
+    const data = await productsModel.find({ subCategory: "schooltextbooks" })
+    res.send(data)
+}
 
-// module.exports = { addData, allData, electronics, cellPhonesAndAccessories, computersAndAccessories, headphones, televisionAndVideo, smartHome, fashion, mensFashion, womensFashion, kidsFashion, homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks }
-
-module.exports={data}
+module.exports = { addData, allData, electronics, cellPhonesAndAccessories, computersAndAccessories, headphones, televisionAndVideo, smartHome, fashion, mensFashion, womensFashion, kidsFashion, homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks }

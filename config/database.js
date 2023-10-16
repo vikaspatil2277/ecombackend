@@ -6,7 +6,7 @@ const uri =  "mongodb+srv://vikaspatil2277:vikas5577@cluster0.mwva03x.mongodb.ne
 
 const connectDB = async () => {
     try {
-        const client = await mongoose.connect(uri,)
+        const client = await mongoose.connect(uri)
         console.log("Connected to database")
         return client
     }
