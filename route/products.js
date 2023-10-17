@@ -1,20 +1,22 @@
 const express = require("express")
 const {
-     addData, allData, 
-    //  electronics,
-      // cellPhonesAndAccessories,
-    //  computersAndAccessories, headphones,
-       television, 
-      fashion, mensFashion, womensFashion, kidsFashion,
-       laptops, 
-       phones} = require("../controller/products")
+     addData, 
+     allData, 
+     fashion,
+     laptops, 
+     phones,
+     television, 
+     mensFashion, 
+     womensFashion,
+     kidsFashion,
+     mixed,
+    } = require("../controller/products")
 const productsRouter = express.Router();
 
 productsRouter.post('/adddata', addData)
 productsRouter.get('/alldata', allData)
-// productsRouter.get('/electronics', electronics)
-// productsRouter.get('/cellphonesandaccessories', cellPhonesAndAccessories)
-// productsRouter.get('/computersandaccessories', computersAndAccessories)
+productsRouter.get('/mixed', mixed)
+
 
 productsRouter.get('/television', television)
 
