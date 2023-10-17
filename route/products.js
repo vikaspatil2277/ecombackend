@@ -1,7 +1,8 @@
 const express = require("express")
 const {
      addData, allData, electronics,
-    //   cellPhonesAndAccessories, computersAndAccessories, headphones,
+      cellPhonesAndAccessories,
+    //  computersAndAccessories, headphones,
        television, 
     //    smartHome,
       fashion, mensFashion, womensFashion, kidsFashion,
@@ -13,7 +14,7 @@ const productsRouter = express.Router();
 productsRouter.post('/adddata', addData)
 productsRouter.get('/alldata', allData)
 productsRouter.get('/electronics', electronics)
-// productsRouter.get('/cellphonesandaccessories', cellPhonesAndAccessories)
+productsRouter.get('/cellphonesandaccessories', cellPhonesAndAccessories)
 // productsRouter.get('/computersandaccessories', computersAndAccessories)
 // productsRouter.get('/headphones', headphones)
 productsRouter.get('/television', television)

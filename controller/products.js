@@ -6866,7 +6866,7 @@ const phones = async (req, res) => {
   res.send(data);
 };
 const fashion = async (req, res) => {
-  const data = await productsModel.find({ subCategory: "fashion" });
+  const data = await productsModel.find({ subCategory: "fashion"});
   res.send(data);
 };
 const mensFashion = async (req, res) => {
