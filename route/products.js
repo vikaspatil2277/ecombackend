@@ -2,7 +2,8 @@ const express = require("express")
 const {
      addData, allData, electronics, cellPhonesAndAccessories, computersAndAccessories, headphones, televisionAndVideo, smartHome,
     //   fashion, mensFashion, womensFashion, kidsFashion, homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks,
-       laptops } = require("../controller/products")
+       laptops, 
+       phones} = require("../controller/products")
 const productsRouter = express.Router();
 
 productsRouter.post('/adddata', addData)
@@ -40,5 +41,6 @@ productsRouter.get('/smarthome', smartHome)
 // productsRouter.get('/indianlanguagebooks', indianLanguageBooks)
 // productsRouter.get('/schooltextbooks', schoolTextbooks)
 productsRouter.get('/laptops', laptops)
+productsRouter.get('/phones', phones)
 
 module.exports = productsRouter 
