@@ -1775,7 +1775,7 @@ const data = [
 
       
 {
-  id: 1001,
+  id: 151,
   category: "electronics",
   subCategory: "mixed",
   productImage1:
@@ -1791,7 +1791,7 @@ const data = [
 
 
 {
-  id: 1002,
+  id: 152,
   category: "electronics",
   subCategory:  "mixed",
   productImage1:
@@ -1809,7 +1809,7 @@ const data = [
 
 
 {
-  id: 1003,
+  id: 153,
   category: "electronics",
   subCategory: "mixed",
   productImage1:
@@ -1827,7 +1827,7 @@ const data = [
 
 
 {
-  id: 1004,
+  id: 154,
   category: "electronics",
   subCategory:  "mixed",
   productImage1:
@@ -1845,7 +1845,7 @@ const data = [
 
 
 {
-  id: 1005,
+  id: 155,
   category: "electronics",
   subCategory:  "mixed",
   productImage1:
@@ -1862,7 +1862,7 @@ const data = [
 
 
 {
-  id: 1006,
+  id: 156,
   category: "electronics",
   subCategory: "mixed",
   productImage1:
@@ -1880,7 +1880,7 @@ const data = [
 
 
 {
-  id: 1007,
+  id: 157,
   category: "electronics",
   subCategory: "mixed",
   productImage1:
@@ -1898,7 +1898,7 @@ const data = [
 
 
 {
-  id: 1008,
+  id: 158,
   category: "fashion",
   subCategory:  "mixed",
   productImage1:
@@ -1916,7 +1916,7 @@ const data = [
 
 
 {
-  id: 1009,
+  id: 159,
   category: "fashion",
   subCategory:  "mixed",
   productImage1:
@@ -1933,7 +1933,7 @@ const data = [
 
 
 {
-  id: 1010,
+  id: 160,
   category: "fashion",
   subCategory:  "mixed",
   productImage1:
@@ -1949,7 +1949,7 @@ const data = [
 },
 
 {
-  id: 1011,
+  id: 161,
   category: "electronics",
   subCategory: "mixed",
   productImage1:
@@ -1966,7 +1966,7 @@ const data = [
 
 
 {
-  id: 1012,
+  id: 162,
   category: "electronics",
   subCategory:  "mixed",
   productImage1:
