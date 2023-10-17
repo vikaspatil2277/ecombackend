@@ -1,7 +1,11 @@
 const express = require("express")
 const {
-     addData, allData, electronics, cellPhonesAndAccessories, computersAndAccessories, headphones, televisionAndVideo, smartHome,
-    //   fashion, mensFashion, womensFashion, kidsFashion, homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks,
+     addData, allData, electronics,
+    //   cellPhonesAndAccessories, computersAndAccessories, headphones,
+       television, 
+    //    smartHome,
+      fashion, mensFashion, womensFashion, kidsFashion,
+    //  homeAndKitchen, kitchenAndDining, furniture, homeDecor, storageAndOrganization, healthAndPersonalCare, householdSupplies, beautyToolsAndAccessories, dietAndNutrition, personalCareAppliances, sports, cricket, badminton, football, yoga, campingAndHiking, strengthTraining, books, fictionBooks, editorsCorner, indianLanguageBooks, schoolTextbooks,
        laptops, 
        phones} = require("../controller/products")
 const productsRouter = express.Router();
@@ -9,15 +13,15 @@ const productsRouter = express.Router();
 productsRouter.post('/adddata', addData)
 productsRouter.get('/alldata', allData)
 productsRouter.get('/electronics', electronics)
-productsRouter.get('/cellphonesandaccessories', cellPhonesAndAccessories)
-productsRouter.get('/computersandaccessories', computersAndAccessories)
-productsRouter.get('/headphones', headphones)
-productsRouter.get('/televisionandvideo', televisionAndVideo)
-productsRouter.get('/smarthome', smartHome)
-// productsRouter.get('/fashion', fashion)
-// productsRouter.get('/mensfashion', mensFashion)
-// productsRouter.get('/womensfashion', womensFashion)
-// productsRouter.get('/kidsfashion', kidsFashion)
+// productsRouter.get('/cellphonesandaccessories', cellPhonesAndAccessories)
+// productsRouter.get('/computersandaccessories', computersAndAccessories)
+// productsRouter.get('/headphones', headphones)
+productsRouter.get('/television', television)
+// productsRouter.get('/smarthome', smartHome)
+productsRouter.get('/fashion', fashion)
+productsRouter.get('/mensfashion', mensFashion)
+productsRouter.get('/womensfashion', womensFashion)
+productsRouter.get('/kidsfashion', kidsFashion)
 // productsRouter.get('/homeandkitchen', homeAndKitchen)
 // productsRouter.get('/kitchenanddining', kitchenAndDining)
 // productsRouter.get('/furniture', furniture)

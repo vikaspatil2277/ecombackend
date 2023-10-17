@@ -912,6 +912,8 @@ const data = [
     productPrice: 74990,
     rating: 4.6,
   },
+
+
   {
     id: 62,
     category: "electronics",
@@ -1123,1087 +1125,1095 @@ const data = [
     rating: 4.1,
   },
 
+
+
+
   {
-    id: 76,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/41Iv9y0SEZL._SL1280_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/61WjxH0opAL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/71yDQ9ro5DL._SL1500_.jpg",
-    productTitle:
-      "Yale YDME 100 NxT, Smart Door Lock with Biometric, Pincode, RFID Card & Mechanical Keys, Color- Black, for Home & Office (Free Installation)",
-    productPrice: 14499,
-    rating: 4.2,
-  },
-  {
-    id: 77,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1: "https://m.media-amazon.com/images/I/41v69yDejAL.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/51qkBdfmymS._SL1000_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/61EXU8BuGZL._SL1100_.jpg",
-    productTitle:
-      "Echo Dot (Black) Combo with Wipro 9W Smart Color Bulb - Smart Home Starter Kit",
-    productPrice: 3299,
-    rating: 4.1,
-  },
-  {
-    id: 78,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61-ma3J-6QL._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/816Vrv3x-WL._SL1280_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/515vypGaiBL._SL1280_.jpg",
-    productTitle:
-      "HomeMate WiFi Smart LED Surface Light | 15 Watt | 16 Million Colors + Warm and Cool White | Compatible with Alexa, Google Home & Siri | With Last State Memory Feature",
-    productPrice: 1599,
-    rating: 3.6,
-  },
-  {
-    id: 79,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/41GSN6QPnHL._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/610mFtj7sJL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/61LCwzpv9pL._SL1500_.jpg",
-    productTitle:
-      "Luminous Audie 1200mm Smart Ceiling Fan for Home and Office with Remote, IoT, Works with Alexa (Mirage White)",
-    productPrice: 3799,
-    rating: 4.1,
-  },
-  {
-    id: 80,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/71sxV50LV4L._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/71MEpbZCr3L._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/71+n1fGyJwL._SL1500_.jpg",
-    productTitle:
-      "Wipro 16A Wi-Fi Smart Plug with Energy Monitoring- Suitable for Large Appliances like Geysers, Microwave Ovens, Air Conditioners (Works with Alexa and Google Assistant)- White",
-    productPrice: 899,
-    rating: 4.5,
-  },
-  {
-    id: 81,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61XL2jzXhTL._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/810QYgxnI3L._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/71GQffl91rL._SL1500_.jpg",
-    productTitle:
-      "TP-Link Tapo 360° 2MP 1080p Full HD Pan/Tilt Home Security Wi-Fi Smart Camera| Alexa Enabled| 2-Way Audio| Night Vision| Motion Detection| Sound and Light Alarm| Indoor CCTV (Tapo C200) White",
-    productPrice: 2499,
-    rating: 3.9,
-  },
-  {
-    id: 82,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61IfOpQwIEL._SL1000_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/61EXU8BuGZL._SL1100_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/61+H0rsBOKL._SL1000_.jpg",
-    productTitle: "Echo Dot (3rd Gen) - Smart speaker with Alexa (Black)",
-    productPrice: 2999,
-    rating: 4.7,
-  },
-  {
-    id: 83,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61HTU-A6JnL._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/71xFsIuRA+L._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/81DJUIPspkL._SL1500_.jpg",
-    productTitle:
-      "Jiffy 14L Plastic Automatic Smart Sensor Dustbin with Lid for Home, Office, Kitchen, Bathroom, Room (Baby Pink)(Motion-Sensor)",
-    productPrice: 2599,
-    rating: 3.6,
-  },
-  {
-    id: 84,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61qopcViLTL._SX425_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/61uW1cF9ZPS._SL1080_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/61YAyyqP8AS._SL1080_.jpg",
-    productTitle:
-      "PowerMax Fitness TDA-230 (4HP Peak) Smart Folding Electric Treadmill with Auto Incline, MP3, Speaker, DIY and Virtual Assistance, Exercise Machine for Home Gym and Cardio Training",
-    productPrice: 36005,
-    rating: 4.2,
-  },
-  {
-    id: 85,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61KbKniufrL._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/51m0HN0xjCL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/614ySFB9fcL._SL1500_.jpg",
-    productTitle:
-      "Wipro Smart Switch Module, 4 Switch Control Compatible with Alexa & Google Home (Pack of 1,White)",
-    productPrice: 1991,
-    rating: 3.9,
-  },
-  {
-    id: 86,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/71APrMSElrL._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/81mpLoFJiXL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/71ekc9COiwL._SL1500_.jpg",
-    productTitle:
-      "HomeMate Wi-Fi Multicolour Smart LED Strip Kit | 5 Meters | Music Sync Feature | No Hub Required | Works with Amazon Alexa, Google Home & Siri (RGB 5 Meter Kit)",
-    productPrice: 1649,
-    rating: 4.5,
-  },
-  {
-    id: 87,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61CfU4Euz1L._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/61esHLmbjcL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/71qDwQ13CJL._SL1500_.jpg",
-    productTitle:
-      "PHILIPS Smart Wi-Fi LED T-Beamer 20-Watt 2-Feet (Pack of 1, Shades of White + Tunable + Dimmable + Pre-Set Modes, Compatible with Amazon Alexa and Google Assistant, B22, Pack of 1)",
-    productPrice: 1059,
-    rating: 4.1,
-  },
-  {
-    id: 88,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/513puen7X3L._SL1500_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/71UqSg8EqWL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/718qTUb7faL._SL1500_.jpg",
-    productTitle:
-      "winPlus Wireless Door Bell for Home Long Range, Waterproof Calling Bell for Office, Self-Powered Battery Free Cordless Door Bell, up to 1000ft Range with 32 Chimes, LED Light, 4-Level Volume（White 1 Transmitter & 2 Receivers）",
-    productPrice: 1899,
-    rating: 3.6,
-  },
-  {
-    id: 89,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61LOXIR83SL._SL1000_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/71cV-ickxOL._SL1500_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/61lPcAKY+vL._SL1500_.jpg",
-    productTitle:
-      "All-New Echo Dot (5th Gen, 2023 release) | Smart speaker with Bigger sound, Motion Detection, Temperature Sensor, Alexa and Bluetooth| Blue",
-    productPrice: 5499,
-    rating: 4.5,
-  },
-  {
-    id: 90,
-    category: "electronics",
-    subCategory: "smarthome",
-    productImage1:
-      "https://m.media-amazon.com/images/I/61QnbFC35UL._SL1000_.jpg",
-    productImage2:
-      "https://m.media-amazon.com/images/I/51C+FWhW9xL._SL1000_.jpg",
-    productImage3:
-      "https://m.media-amazon.com/images/I/61Fq+sUtZcL._SL1000_.jpg",
-    productTitle:
-      "Echo Show 8 (2nd Gen, 2021 release)- Smart speaker with 8 HD screen, stereo sound & hands - free entertainment with Alexa(Black) ",
-    productPrice: 13999,
-    rating: 4.8,
-  },
+        id: 91,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61+OnW2GPGL._UL1440_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61--63BPmlL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61zzbO6HklL._UL1440_.jpg",
+        productTitle: "BULLMER Mens Cotton Henley Neck/Chinese Collar Tshirt",
+        productPrice: 354,
+        rating: 4.1,
+      },
+      {
+        id: 92,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61fzbOrJyML._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61Ck+vrpocL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61EMUpVDj7L._UL1440_.jpg",
+        productTitle:
+          "ATICX Men's Slim Fit Polyester Sleeveless T Shirt - Sando Top Tank Muscle Tee for Sports, Gym, Running",
+        productPrice: 249,
+        rating: 4,
+      },
+      {
+        id: 93,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71V0UjkEnpL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81Ag3+FM-TL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71KNiM4dNKL._UL1500_.jpg",
+        productTitle:
+          "Maniac Mens Printed Round Neck Half Sleeve Purple and White Cotton Oversized T-Shirt",
+        productPrice: 599,
+        rating: 3.9,
+      },
+      {
+        id: 94,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71ssF1s7V1L._UY550_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71kc3no8ODL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81ohJVWRobL._UL1500_.jpg",
+        productTitle: "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
+        productPrice: 699,
+        rating: 4.5,
+      },
+      {
+        id: 95,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51oqHcH9mcL._UL1440_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81DAgwETgpL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71YWTgu+U2L._UL1440_.jpg",
+        productTitle:
+          "Dennis Lingo Men's Cotton Buffalo Check Slim Fit Casual Shirt with Pocket, Full Sleeve Shirt for Formal & Casual Wear",
+        productPrice: 649,
+        rating: 3.7,
+      },
+      {
+        id: 96,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71T-utEUZxL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/911y3EHluiL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81OvQDjG0rL._UL1440_.jpg",
+        productTitle:
+          "Dennis Lingo Men's Striped Slim Fit Oxford Cotton Casual Shirt with Button Down Collar & Full Sleeves",
+        productPrice: 690,
+        rating: 4.7,
+      },
+      {
+        id: 97,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81Vn0Boy9eL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/819KPgjasVL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81YXKCOKShL._UL1500_.jpg",
+        productTitle: "Levi's Men's 511 Styled Slim Fit Jeans",
+        productPrice: 1421,
+        rating: 4.8,
+      },
+      {
+        id: 98,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71cioZQWYeL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81dNPIv6xML._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71KFLL21QYL._UL1500_.jpg",
+        productTitle: "Levi's Men's 512 Slim Tapered Fit Jeans",
+        productPrice: 1699,
+        rating: 4.1,
+      },
+      {
+        id: 99,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61202kcgy5L._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61cZ4o5AKZL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51NW865Zh9L._UL1500_.jpg",
+        productTitle: "Peter England Men's Slim Jeans",
+        productPrice: 2099,
+        rating: 4.6,
+      },
+      {
+        id: 100,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71T-yPIj-sL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71WPnv8-daL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/718OmjcMnKL._UL1500_.jpg",
+        productTitle:
+          "MEERA FAB Women's Cotton Printed Pink Anarkali Kurta with Palazzo & Dupatta Set",
+        productPrice: 806,
+        rating: 3.7,
+      },
+      {
+        id: 101,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61Kp-+0GrHL._UL1280_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/91v8-1JlolL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/91ndrnmEs3L._UL1500_.jpg",
+        productTitle: "GoSriKi Women Kurta with Pant & Dupatta",
+        productPrice: 659,
+        rating: 4.2,
+      },
+      {
+        id: 102,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51dZ19miAbL._UL1440_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51yYRttRUFL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61yTb8brZUL._UL1440_.jpg",
+        productTitle:
+          "GoSriKi Women's Cotton Blend Embroidered Straight Kurta (Stho-White-Nw2-GS)",
+        productPrice: 469,
+        rating: 3.9,
+      },
+      {
+        id: 103,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1: "https://m.media-amazon.com/images/I/51YUdTGQZtL.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61DB1xBOUyL._UL1024_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61YQNQoQU4L._UL1024_.jpg",
+        productTitle:
+          "GRECIILOOKS Women's Casual Digital Printed Shirt Ruffle Sleeve Tops | Floral Printed Shaded Shirt for Women |Casual Short Sleeve Oversized Blouses Tops",
+        productPrice: 299,
+        rating: 3.5,
+      },
+      {
+        id: 104,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71D71aU1zxL._UL1198_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71vxEWqxuNL._UL1198_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71YvI0JBoKL._UL1198_.jpg",
+        productTitle:
+          "REORIA Women’s Sexy Sleeveless Racer Back Halter Neck Bodysuit Tank Tops",
+        productPrice: 299,
+        rating: 4.3,
+      },
+      {
+        id: 105,
+        category: "fashion",
+        subCategory: "fashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/6109c+c00qL._UX522_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/618CPRmzIIL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51Gn0stHLrL._UL1500_.jpg",
+        productTitle:
+          "OM SAI LATEST CREATION Women's Lycra Striped Tie-Dye T-Shirt for Women Western Tees Travel, Casual, Night Wear Western Tops",
+        productPrice: 349,
+        rating: 4.5,
+      },
+      {
+        id: 106,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/712XTTg1j6L._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71xExo9YsiL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71E9ZoTvltL._UL1500_.jpg",
+        productTitle: "Amazon Brand - Symbol Men Polo Shirt",
+        productPrice: 499,
+        rating: 4.1,
+      },
+      {
+        id: 107,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71j++pbaQ9L._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61BcpA1lgeL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61vlnRsV7gL._UL1500_.jpg",
+        productTitle:
+          "LEOTUDE Oversized Half Sleeve Printed Men's Combo T-Shirt (Pack of 2)",
+        productPrice: 494,
+        rating: 4.1,
+      },
+      {
+        id: 108,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81pPCgAKvCL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71hhJcmPMSL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/91S9jyTikBL._UL1500_.jpg",
+        productTitle: "Allen Solly Casual Shirt",
+        productPrice: 799,
+        rating: 4.5,
+      },
+      {
+        id: 109,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51Wcry5WUHL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/614XpiTNZoL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51a8bock+pL._UL1440_.jpg",
+        productTitle: "Veirdo Men T-Shirt",
+        productPrice: 449,
+        rating: 4.8,
+      },
+      {
+        id: 110,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/615OFA2LHML._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/710jmT+UG2L._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71d2XXD9ySL._UL1500_.jpg",
+        productTitle:
+          "Amazon Brand - Symbol Men's Relaxed Fit Jeans (SS20-NS-SY-RS01_Jet Black_40W x 32L)",
+        productPrice: 649,
+        rating: 3.6,
+      },
+      {
+        id: 111,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61Hdox5R96L._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61eFFUtEFaL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61uc-+3uESL._UL1440_.jpg",
+        productTitle:
+          "Urbano Plus Men's Black Regular Fit Washed Jeans Stretchable",
+        productPrice: 849,
+        rating: 3.5,
+      },
+      {
+        id: 112,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61QGzNhSAeL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/616uCKf5DoL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71t04Zs4mCL._UL1500_.jpg",
+        productTitle: "HIGH STAR Men Jeans",
+        productPrice: 549,
+        rating: 4.1,
+      },
+      {
+        id: 113,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1: "https://m.media-amazon.com/images/I/31ESWFjUO9L.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51Bz1fEj1jL._UL1000_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/516LiU70FiL._UL1000_.jpg",
+        productTitle:
+          "NEVER LOSE Mens 2 Pack Polyester Yoga Short Men Summer Running Gym Sports Shorts with Pockets Shorts for Men",
+        productPrice: 719,
+        rating: 4.3,
+      },
+      {
+        id: 114,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71ePojXLFzL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71zN+VHh+oL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/912GlrOOzwL._UL1500_.jpg",
+        productTitle: "U.S. POLO ASSN. Men's Regular Shorts",
+        productPrice: 500,
+        rating: 3.6,
+      },
+      {
+        id: 115,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81XwVOiXXAL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/719Fl6yXb7L._UL1500_.jpg",
+        productImage3: "https://m.media-amazon.com/images/I/41tfpqjacDL.jpg",
+        productTitle:
+          "LookMark Men's Cotton Blend Stitched Printed Half Sleeve Shirt",
+        productPrice: 329,
+        rating: 4.2,
+      },
+      {
+        id: 116,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71q1591-bHL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71byXXp-zWL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/91z0XoQciKL._UL1500_.jpg",
+        productTitle: "Red Tape Men Navy Blue Full Sleeve Shirt",
+        productPrice: 999,
+        rating: 4.2,
+      },
+      {
+        id: 117,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71gDaT2Po2L._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81Uds8+WchL._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71RU6JIIJdL._UL1440_.jpg",
+        productTitle: "Dennis Lingo Men's Cotton Slim Fit Casual Shirt",
+        productPrice: 599,
+        rating: 3.8,
+      },
+      {
+        id: 118,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61A4ludC4QL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61oDFzh+f3L._UL1440_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61xz9xEUU9L._UL1440_.jpg",
+        productTitle:
+          "ALAWING Print Baseball Cap Men Cotton Hat Women Fashion Sweatproof and Breathable Unisex Adjustable Hat",
+        productPrice: 598,
+        rating: 3.8,
+      },
+      {
+        id: 119,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51MORTuytNL._UL1200_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51buJ8c2QqL._UX679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61IyywQhSrL._UX679_.jpg",
+        productTitle: "Puma Unisex-Adult Cap",
+        productPrice: 700,
+        rating: 4.6,
+      },
+      {
+        id: 120,
+        category: "fashion",
+        subCategory: "mensfashion",
+        productImage1: "https://m.media-amazon.com/images/I/41YComssGEL.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61y2yFeWC9L._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61Gp7kphehL._UL1500_.jpg",
+        productTitle: "Eaglebuzz Unisex Cotton Baseball Cap Black Free Size",
+        productPrice: 498,
+        rating: 3.5,
+      },
+      {
+        id: 121,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71-agVsgaRL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81304YkKzbL._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81sGXBnmhtL._UL1500_.jpg",
+        productTitle:
+          "Lymio Tops for Women || Tops for Women Women Tops || Tops || top for Women || top || Women top (598-601)",
+        productPrice: 249,
+        rating: 3.6,
+      },
+      {
+        id: 122,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/615pREhXdPL._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/616ZCYYLBwL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61Y9xfsn3WL._UY741_.jpg",
+        productTitle: "Aahwan Women's & Girls' Solid Ribbed Square Neck Tank Tops",
+        productPrice: 301,
+        rating: 4.1,
+      },
+      {
+        id: 123,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61P3cFXpW8L._UY550_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61onqprKOyL._UY550_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51XJmNgSzIL._UY550_.jpg",
+        productTitle:
+          "SIGHTBOMB Square Neck Puff Sleeves Ruched Waist Crop TOP for Women",
+        productPrice: 499,
+        rating: 3.9,
+      },
+      {
+        id: 124,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61-eglgl4rL._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51Lbkrb8RlL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61wUexnBoML._UY741_.jpg",
+        productTitle: "Kotty Women's Relaxed Fit Cotton Jeans",
+        productPrice: 598,
+        rating: 4.7,
+      },
+      {
+        id: 125,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1: "https://m.media-amazon.com/images/I/31Y4oZCtpUL.jpg",
+        productImage2: "https://m.media-amazon.com/images/I/317vplB+SxL.jpg",
+        productImage3: "https://m.media-amazon.com/images/I/318qw3nD9qL.jpg",
+        productTitle: "KOTTY Women's Relaxed Jeans",
+        productPrice: 497,
+        rating: 3.4,
+      },
+      {
+        id: 126,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61z0aa5PJ5L._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61+FqeKKUVL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61SUdzqROFL._UY741_.jpg",
+        productTitle: "Allen Solly Women's Relaxed Fit Cotton Jean",
+        productPrice: 1459,
+        rating: 3.8,
+      },
+      {
+        id: 127,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61LN-y1hC2L._UX425_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/8104GG3E1SL._UX425_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51EuYqRlHRL._UX425_.jpg",
+        productTitle: "Tommy Hilfiger Women T-Shirt",
+        productPrice: 1499,
+        rating: 3.9,
+      },
+      {
+        id: 128,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71qV-M23duL._UX569_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71VZGfLh1kL._UX569_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71eLADwY94L._UX569_.jpg",
+        productTitle: "Tommy Hilfiger Synthetic Shift Dress",
+        productPrice: 2296,
+        rating: 4.1,
+      },
+      {
+        id: 129,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81XtXNsE8SL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71HORElj56L._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71mqcZ06arL._UL1500_.jpg",
+        productTitle: "Tommy Hilfiger Women's Relaxed Pants",
+        productPrice: 3149,
+        rating: 3.7,
+      },
+      {
+        id: 130,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/817oHzEETSL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/814JDMsLDdL._UY550_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81zF4T10wQL._UY550_.jpg",
+        productTitle: "Tommy Hilfiger Women's Slim Fit Pants",
+        productPrice: 2388,
+        rating: 3.2,
+      },
+      {
+        id: 131,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/91ud7UGyBYL._UL1500_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/91KOUv3cD-L._UL1500_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81+fdFV-hkL._UL1500_.jpg",
+        productTitle: "Tommy Hilfiger Women's Striped Loose Fit Top",
+        productPrice: 2759,
+        rating: 2.7,
+      },
+      {
+        id: 132,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/518Do9xAjUL._UX679_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61hJUOalaSL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61kYjgGHhVL._UY741_.jpg",
+        productTitle:
+          "true Browns Women's Light Green Bandhani Printed Silk Sleevesless Jacket Pant Set",
+        productPrice: 3599,
+        rating: 4.5,
+      },
+      {
+        id: 133,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1: "https://m.media-amazon.com/images/I/4120oLV7J+S.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71eAcfNzIwS._UY679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/712u+XPBZJS._UY679_.jpg",
+        productTitle: "Masaba Bud Sharara Set",
+        productPrice: 4999,
+        rating: 4.2,
+      },
+      {
+        id: 134,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81KOnn1GW+L._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81VicLMHLaL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/81dBk++C9+L._UY741_.jpg",
+        productTitle: "Label RITU KUMAR Blue Floral Print Maxi Dress",
+        productPrice: 3450,
+        rating: 4.1,
+      },
+      {
+        id: 135,
+        category: "fashion",
+        subCategory: "womensfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/517-Ux68fOL._UX522_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51BLJUyNFrL._UX522_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51fpBH0eLbL._UX522_.jpg",
+        productTitle: "Levi's Women's Western Casual Pants",
+        productPrice: 1019,
+        rating: 3.7,
+      },
+      {
+        id: 136,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51P1J97tb4L._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/817hcGA4BwL._UX679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/91LGFFOX+kL._UY741_.jpg",
+        productTitle: "TAGAS Baby-Girls Dress",
+        productPrice: 459,
+        rating: 3.8,
+      },
+      {
+        id: 137,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51UjUExg-FL._UX679_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51zxl7-r+0L._UX679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/51iu1ikmxcL._UX679_.jpg",
+        productTitle: "My Lil Princess Girls' Dress",
+        productPrice: 949,
+        rating: 4.5,
+      },
+      {
+        id: 138,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51tADDC2BNL._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/618lhBfmZ3L._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/514Y5mWAmVL._UY741_.jpg",
+        productTitle: "Naughty Ninos Girl's Regular Overalls",
+        productPrice: 549,
+        rating: 4.6,
+      },
+      {
+        id: 139,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71Bs+95oCOL._UX679_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/513qvVES9VL._UX679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/617wCli+p1L._UX679_.jpg",
+        productTitle:
+          "Kuchipoo Boys Regular Fit Cotton T-Shirt - Combo of 5 (KUC-TSHRT-149)",
+        productPrice: 551,
+        rating: 2.9,
+      },
+      {
+        id: 140,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71Xil6TWrtL._UX569_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71gHMfYFS0L._UX569_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71s9ggm6WWL._UX569_.jpg",
+        productTitle: "Amazon Brand - Jam & Honey Boy's Regular Fit T-Shirt",
+        productPrice: 776,
+        rating: 3.5,
+      },
+      {
+        id: 141,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/91SuBZTLMGL._UX679_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/91SK9JhATWL._UX679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/91ZulQ5lX9L._UX569_.jpg",
+        productTitle: "Allen Solly Junior Boy's T-Shirt",
+        productPrice: 490,
+        rating: 3.6,
+      },
+      {
+        id: 142,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61k-7wDEdtL._UX522_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61B61+Lw+KL._UX522_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61tuwvy2n+L._UX522_.jpg",
+        productTitle:
+          "EIO® 100% Cotton Rompers Sleepsuits Jumpsuit Night Suits for Infants Newborn Baby Boys & Girls Pack of 3",
+        productPrice: 599,
+        rating: 4.1,
+      },
+      {
+        id: 143,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/51l2P47f0YL._UX466_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/51DShlKIvRL._UX466_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61C2+Ag1ybL._UX466_.jpg",
+        productTitle:
+          "Googogaaga Boy's Cotton Dino Printed T-shirt With Shorts Sets of baby boys clothing Sets",
+        productPrice: 468,
+        rating: 4.4,
+      },
+      {
+        id: 144,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81xt5yh6nTL._UX522_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/81nwAU9NhtL._UX522_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/91uK+0GdQOL._UX522_.jpg",
+        productTitle:
+          "ARIEL Baby Boys & Baby girls Cotton Printed Round Neck Half Sleeve T-shirt & Short Latest Summer Clothing Sets",
+        productPrice: 284,
+        rating: 3.6,
+      },
+      {
+        id: 145,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/710Rr6g0U4L._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71pP7CcTyeL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71m6MOW3beL._UY741_.jpg",
+        productTitle: "Arshia Fashions Suit Set for Girls |Kurta Pajama",
+        productPrice: 599,
+        rating: 4.1,
+      },
+      {
+        id: 146,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81NPsP8uHFL._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71S0JEm0IRL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71ju00zEbnL._UY741_.jpg",
+        productTitle:
+          "AHHAAAA Kids Ethnic Banarasi Silk Waistcoat Kurta and Pyjama Set for Boys",
+        productPrice: 1199,
+        rating: 3.6,
+      },
+      {
+        id: 147,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71OqojNLjiL._UY741_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71l89jh5bpL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71+il3AgwmL._UY741_.jpg",
+        productTitle: "ADIVA Girl's Silk Blend Readymade Lehenga Choli Set",
+        productPrice: 1235,
+        rating: 4.6,
+      },
+      {
+        id: 148,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/81ujbvQj8sL._UX679_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71rb-7rHZtL._UY741_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/916NXJfPFmL._UY741_.jpg",
+        productTitle:
+          "TotzTouch Cotton Girls Night Wear T Shirt & Pyjama | Night Dress for Girl Kids | Night Dresses Tee Top & Pajama Pant Set of 3 & 2 (Size Options - Age 6 Months to 10 Years)",
+        productPrice: 1044,
+        rating: 4.2,
+      },
+      {
+        id: 149,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/61ZHnnxGnoL._UX569_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/61qa+kejK4L._UX569_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/61xFv0A-IbL._UX569_.jpg",
+        productTitle:
+          "superminis Boy's & Girl's Cotton Printed Night Suit Set Pack of 1",
+        productPrice: 499,
+        rating: 4.5,
+      },
+      {
+        id: 150,
+        category: "fashion",
+        subCategory: "kidsfashion",
+        productImage1:
+          "https://m.media-amazon.com/images/I/71GVE1XdOXL._UX679_.jpg",
+        productImage2:
+          "https://m.media-amazon.com/images/I/71ZO7OAAngL._UX679_.jpg",
+        productImage3:
+          "https://m.media-amazon.com/images/I/71BmUH+tgGL._UX569_.jpg",
+        productTitle:
+          "Chheent Boy's & Girl's Cotton All Over Print Sleep Suit, Comfortable Night Suit for Girls and Boys Pack of 1",
+        productPrice: 1135,
+        rating: 4.8,
+      },
+
+
+
+
 //   {
-//     id: 91,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 76,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/61+OnW2GPGL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/41Iv9y0SEZL._SL1280_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/61--63BPmlL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/61WjxH0opAL._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/61zzbO6HklL._UL1440_.jpg",
-//     productTitle: "BULLMER Mens Cotton Henley Neck/Chinese Collar Tshirt",
-//     productPrice: 354,
+//       "https://m.media-amazon.com/images/I/71yDQ9ro5DL._SL1500_.jpg",
+//     productTitle:
+//       "Yale YDME 100 NxT, Smart Door Lock with Biometric, Pincode, RFID Card & Mechanical Keys, Color- Black, for Home & Office (Free Installation)",
+//     productPrice: 14499,
+//     rating: 4.2,
+//   },
+//   {
+//     id: 77,
+//     category: "electronics",
+//     subCategory: "smarthome",
+//     productImage1: "https://m.media-amazon.com/images/I/41v69yDejAL.jpg",
+//     productImage2:
+//       "https://m.media-amazon.com/images/I/51qkBdfmymS._SL1000_.jpg",
+//     productImage3:
+//       "https://m.media-amazon.com/images/I/61EXU8BuGZL._SL1100_.jpg",
+//     productTitle:
+//       "Echo Dot (Black) Combo with Wipro 9W Smart Color Bulb - Smart Home Starter Kit",
+//     productPrice: 3299,
 //     rating: 4.1,
 //   },
 //   {
-//     id: 92,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 78,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/61fzbOrJyML._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61-ma3J-6QL._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/61Ck+vrpocL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/816Vrv3x-WL._SL1280_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/61EMUpVDj7L._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/515vypGaiBL._SL1280_.jpg",
 //     productTitle:
-//       "ATICX Men's Slim Fit Polyester Sleeveless T Shirt - Sando Top Tank Muscle Tee for Sports, Gym, Running",
-//     productPrice: 249,
-//     rating: 4,
+//       "HomeMate WiFi Smart LED Surface Light | 15 Watt | 16 Million Colors + Warm and Cool White | Compatible with Alexa, Google Home & Siri | With Last State Memory Feature",
+//     productPrice: 1599,
+//     rating: 3.6,
 //   },
 //   {
-//     id: 93,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 79,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/71V0UjkEnpL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/41GSN6QPnHL._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/81Ag3+FM-TL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/610mFtj7sJL._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/71KNiM4dNKL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61LCwzpv9pL._SL1500_.jpg",
 //     productTitle:
-//       "Maniac Mens Printed Round Neck Half Sleeve Purple and White Cotton Oversized T-Shirt",
-//     productPrice: 599,
-//     rating: 3.9,
+//       "Luminous Audie 1200mm Smart Ceiling Fan for Home and Office with Remote, IoT, Works with Alexa (Mirage White)",
+//     productPrice: 3799,
+//     rating: 4.1,
 //   },
 //   {
-//     id: 94,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 80,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/71ssF1s7V1L._UY550_.jpg",
+//       "https://m.media-amazon.com/images/I/71sxV50LV4L._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/71kc3no8ODL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/71MEpbZCr3L._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/81ohJVWRobL._UL1500_.jpg",
-//     productTitle: "Amazon Brand - Inkast Denim Co. Men's Slim Fit Casual Shirt",
-//     productPrice: 699,
+//       "https://m.media-amazon.com/images/I/71+n1fGyJwL._SL1500_.jpg",
+//     productTitle:
+//       "Wipro 16A Wi-Fi Smart Plug with Energy Monitoring- Suitable for Large Appliances like Geysers, Microwave Ovens, Air Conditioners (Works with Alexa and Google Assistant)- White",
+//     productPrice: 899,
 //     rating: 4.5,
 //   },
 //   {
-//     id: 95,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 81,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/51oqHcH9mcL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/61XL2jzXhTL._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/81DAgwETgpL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/810QYgxnI3L._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/71YWTgu+U2L._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/71GQffl91rL._SL1500_.jpg",
 //     productTitle:
-//       "Dennis Lingo Men's Cotton Buffalo Check Slim Fit Casual Shirt with Pocket, Full Sleeve Shirt for Formal & Casual Wear",
-//     productPrice: 649,
-//     rating: 3.7,
+//       "TP-Link Tapo 360° 2MP 1080p Full HD Pan/Tilt Home Security Wi-Fi Smart Camera| Alexa Enabled| 2-Way Audio| Night Vision| Motion Detection| Sound and Light Alarm| Indoor CCTV (Tapo C200) White",
+//     productPrice: 2499,
+//     rating: 3.9,
 //   },
 //   {
-//     id: 96,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 82,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/71T-utEUZxL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61IfOpQwIEL._SL1000_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/911y3EHluiL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/61EXU8BuGZL._SL1100_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/81OvQDjG0rL._UL1440_.jpg",
-//     productTitle:
-//       "Dennis Lingo Men's Striped Slim Fit Oxford Cotton Casual Shirt with Button Down Collar & Full Sleeves",
-//     productPrice: 690,
+//       "https://m.media-amazon.com/images/I/61+H0rsBOKL._SL1000_.jpg",
+//     productTitle: "Echo Dot (3rd Gen) - Smart speaker with Alexa (Black)",
+//     productPrice: 2999,
 //     rating: 4.7,
 //   },
 //   {
-//     id: 97,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 83,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/81Vn0Boy9eL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61HTU-A6JnL._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/819KPgjasVL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/71xFsIuRA+L._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/81YXKCOKShL._UL1500_.jpg",
-//     productTitle: "Levi's Men's 511 Styled Slim Fit Jeans",
-//     productPrice: 1421,
-//     rating: 4.8,
-//   },
-//   {
-//     id: 98,
-//     category: "fashion",
-//     subCategory: "fashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71cioZQWYeL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/81dNPIv6xML._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71KFLL21QYL._UL1500_.jpg",
-//     productTitle: "Levi's Men's 512 Slim Tapered Fit Jeans",
-//     productPrice: 1699,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 99,
-//     category: "fashion",
-//     subCategory: "fashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61202kcgy5L._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61cZ4o5AKZL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/51NW865Zh9L._UL1500_.jpg",
-//     productTitle: "Peter England Men's Slim Jeans",
-//     productPrice: 2099,
-//     rating: 4.6,
-//   },
-//   {
-//     id: 100,
-//     category: "fashion",
-//     subCategory: "fashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71T-yPIj-sL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71WPnv8-daL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/718OmjcMnKL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/81DJUIPspkL._SL1500_.jpg",
 //     productTitle:
-//       "MEERA FAB Women's Cotton Printed Pink Anarkali Kurta with Palazzo & Dupatta Set",
-//     productPrice: 806,
-//     rating: 3.7,
+//       "Jiffy 14L Plastic Automatic Smart Sensor Dustbin with Lid for Home, Office, Kitchen, Bathroom, Room (Baby Pink)(Motion-Sensor)",
+//     productPrice: 2599,
+//     rating: 3.6,
 //   },
 //   {
-//     id: 101,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 84,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/61Kp-+0GrHL._UL1280_.jpg",
+//       "https://m.media-amazon.com/images/I/61qopcViLTL._SX425_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/91v8-1JlolL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61uW1cF9ZPS._SL1080_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/91ndrnmEs3L._UL1500_.jpg",
-//     productTitle: "GoSriKi Women Kurta with Pant & Dupatta",
-//     productPrice: 659,
+//       "https://m.media-amazon.com/images/I/61YAyyqP8AS._SL1080_.jpg",
+//     productTitle:
+//       "PowerMax Fitness TDA-230 (4HP Peak) Smart Folding Electric Treadmill with Auto Incline, MP3, Speaker, DIY and Virtual Assistance, Exercise Machine for Home Gym and Cardio Training",
+//     productPrice: 36005,
 //     rating: 4.2,
 //   },
 //   {
-//     id: 102,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 85,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/51dZ19miAbL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/61KbKniufrL._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/51yYRttRUFL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/51m0HN0xjCL._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/61yTb8brZUL._UL1440_.jpg",
+//       "https://m.media-amazon.com/images/I/614ySFB9fcL._SL1500_.jpg",
 //     productTitle:
-//       "GoSriKi Women's Cotton Blend Embroidered Straight Kurta (Stho-White-Nw2-GS)",
-//     productPrice: 469,
+//       "Wipro Smart Switch Module, 4 Switch Control Compatible with Alexa & Google Home (Pack of 1,White)",
+//     productPrice: 1991,
 //     rating: 3.9,
 //   },
 //   {
-//     id: 103,
-//     category: "fashion",
-//     subCategory: "fashion",
-//     productImage1: "https://m.media-amazon.com/images/I/51YUdTGQZtL.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61DB1xBOUyL._UL1024_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61YQNQoQU4L._UL1024_.jpg",
-//     productTitle:
-//       "GRECIILOOKS Women's Casual Digital Printed Shirt Ruffle Sleeve Tops | Floral Printed Shaded Shirt for Women |Casual Short Sleeve Oversized Blouses Tops",
-//     productPrice: 299,
-//     rating: 3.5,
-//   },
-//   {
-//     id: 104,
-//     category: "fashion",
-//     subCategory: "fashion",
+//     id: 86,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/71D71aU1zxL._UL1198_.jpg",
+//       "https://m.media-amazon.com/images/I/71APrMSElrL._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/71vxEWqxuNL._UL1198_.jpg",
+//       "https://m.media-amazon.com/images/I/81mpLoFJiXL._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/71YvI0JBoKL._UL1198_.jpg",
+//       "https://m.media-amazon.com/images/I/71ekc9COiwL._SL1500_.jpg",
 //     productTitle:
-//       "REORIA Women’s Sexy Sleeveless Racer Back Halter Neck Bodysuit Tank Tops",
-//     productPrice: 299,
-//     rating: 4.3,
-//   },
-//   {
-//     id: 105,
-//     category: "fashion",
-//     subCategory: "fashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/6109c+c00qL._UX522_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/618CPRmzIIL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/51Gn0stHLrL._UL1500_.jpg",
-//     productTitle:
-//       "OM SAI LATEST CREATION Women's Lycra Striped Tie-Dye T-Shirt for Women Western Tees Travel, Casual, Night Wear Western Tops",
-//     productPrice: 349,
+//       "HomeMate Wi-Fi Multicolour Smart LED Strip Kit | 5 Meters | Music Sync Feature | No Hub Required | Works with Amazon Alexa, Google Home & Siri (RGB 5 Meter Kit)",
+//     productPrice: 1649,
 //     rating: 4.5,
 //   },
 //   {
-//     id: 106,
-//     category: "fashion",
-//     subCategory: "mensfashion",
+//     id: 87,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/712XTTg1j6L._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61CfU4Euz1L._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/71xExo9YsiL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61esHLmbjcL._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/71E9ZoTvltL._UL1500_.jpg",
-//     productTitle: "Amazon Brand - Symbol Men Polo Shirt",
-//     productPrice: 499,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 107,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71j++pbaQ9L._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61BcpA1lgeL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61vlnRsV7gL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/71qDwQ13CJL._SL1500_.jpg",
 //     productTitle:
-//       "LEOTUDE Oversized Half Sleeve Printed Men's Combo T-Shirt (Pack of 2)",
-//     productPrice: 494,
+//       "PHILIPS Smart Wi-Fi LED T-Beamer 20-Watt 2-Feet (Pack of 1, Shades of White + Tunable + Dimmable + Pre-Set Modes, Compatible with Amazon Alexa and Google Assistant, B22, Pack of 1)",
+//     productPrice: 1059,
 //     rating: 4.1,
 //   },
 //   {
-//     id: 108,
-//     category: "fashion",
-//     subCategory: "mensfashion",
+//     id: 88,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/81pPCgAKvCL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/513puen7X3L._SL1500_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/71hhJcmPMSL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/71UqSg8EqWL._SL1500_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/91S9jyTikBL._UL1500_.jpg",
-//     productTitle: "Allen Solly Casual Shirt",
-//     productPrice: 799,
+//       "https://m.media-amazon.com/images/I/718qTUb7faL._SL1500_.jpg",
+//     productTitle:
+//       "winPlus Wireless Door Bell for Home Long Range, Waterproof Calling Bell for Office, Self-Powered Battery Free Cordless Door Bell, up to 1000ft Range with 32 Chimes, LED Light, 4-Level Volume（White 1 Transmitter & 2 Receivers）",
+//     productPrice: 1899,
+//     rating: 3.6,
+//   },
+//   {
+//     id: 89,
+//     category: "electronics",
+//     subCategory: "smarthome",
+//     productImage1:
+//       "https://m.media-amazon.com/images/I/61LOXIR83SL._SL1000_.jpg",
+//     productImage2:
+//       "https://m.media-amazon.com/images/I/71cV-ickxOL._SL1500_.jpg",
+//     productImage3:
+//       "https://m.media-amazon.com/images/I/61lPcAKY+vL._SL1500_.jpg",
+//     productTitle:
+//       "All-New Echo Dot (5th Gen, 2023 release) | Smart speaker with Bigger sound, Motion Detection, Temperature Sensor, Alexa and Bluetooth| Blue",
+//     productPrice: 5499,
 //     rating: 4.5,
 //   },
 //   {
-//     id: 109,
-//     category: "fashion",
-//     subCategory: "mensfashion",
+//     id: 90,
+//     category: "electronics",
+//     subCategory: "smarthome",
 //     productImage1:
-//       "https://m.media-amazon.com/images/I/51Wcry5WUHL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/61QnbFC35UL._SL1000_.jpg",
 //     productImage2:
-//       "https://m.media-amazon.com/images/I/614XpiTNZoL._UL1500_.jpg",
+//       "https://m.media-amazon.com/images/I/51C+FWhW9xL._SL1000_.jpg",
 //     productImage3:
-//       "https://m.media-amazon.com/images/I/51a8bock+pL._UL1440_.jpg",
-//     productTitle: "Veirdo Men T-Shirt",
-//     productPrice: 449,
+//       "https://m.media-amazon.com/images/I/61Fq+sUtZcL._SL1000_.jpg",
+//     productTitle:
+//       "Echo Show 8 (2nd Gen, 2021 release)- Smart speaker with 8 HD screen, stereo sound & hands - free entertainment with Alexa(Black) ",
+//     productPrice: 13999,
 //     rating: 4.8,
 //   },
-//   {
-//     id: 110,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/615OFA2LHML._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/710jmT+UG2L._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71d2XXD9ySL._UL1500_.jpg",
-//     productTitle:
-//       "Amazon Brand - Symbol Men's Relaxed Fit Jeans (SS20-NS-SY-RS01_Jet Black_40W x 32L)",
-//     productPrice: 649,
-//     rating: 3.6,
-//   },
-//   {
-//     id: 111,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61Hdox5R96L._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61eFFUtEFaL._UL1440_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61uc-+3uESL._UL1440_.jpg",
-//     productTitle:
-//       "Urbano Plus Men's Black Regular Fit Washed Jeans Stretchable",
-//     productPrice: 849,
-//     rating: 3.5,
-//   },
-//   {
-//     id: 112,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61QGzNhSAeL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/616uCKf5DoL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71t04Zs4mCL._UL1500_.jpg",
-//     productTitle: "HIGH STAR Men Jeans",
-//     productPrice: 549,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 113,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1: "https://m.media-amazon.com/images/I/31ESWFjUO9L.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/51Bz1fEj1jL._UL1000_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/516LiU70FiL._UL1000_.jpg",
-//     productTitle:
-//       "NEVER LOSE Mens 2 Pack Polyester Yoga Short Men Summer Running Gym Sports Shorts with Pockets Shorts for Men",
-//     productPrice: 719,
-//     rating: 4.3,
-//   },
-//   {
-//     id: 114,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71ePojXLFzL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71zN+VHh+oL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/912GlrOOzwL._UL1500_.jpg",
-//     productTitle: "U.S. POLO ASSN. Men's Regular Shorts",
-//     productPrice: 500,
-//     rating: 3.6,
-//   },
-//   {
-//     id: 115,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/81XwVOiXXAL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/719Fl6yXb7L._UL1500_.jpg",
-//     productImage3: "https://m.media-amazon.com/images/I/41tfpqjacDL.jpg",
-//     productTitle:
-//       "LookMark Men's Cotton Blend Stitched Printed Half Sleeve Shirt",
-//     productPrice: 329,
-//     rating: 4.2,
-//   },
-//   {
-//     id: 116,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71q1591-bHL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71byXXp-zWL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/91z0XoQciKL._UL1500_.jpg",
-//     productTitle: "Red Tape Men Navy Blue Full Sleeve Shirt",
-//     productPrice: 999,
-//     rating: 4.2,
-//   },
-//   {
-//     id: 117,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71gDaT2Po2L._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/81Uds8+WchL._UL1440_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71RU6JIIJdL._UL1440_.jpg",
-//     productTitle: "Dennis Lingo Men's Cotton Slim Fit Casual Shirt",
-//     productPrice: 599,
-//     rating: 3.8,
-//   },
-//   {
-//     id: 118,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61A4ludC4QL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61oDFzh+f3L._UL1440_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61xz9xEUU9L._UL1440_.jpg",
-//     productTitle:
-//       "ALAWING Print Baseball Cap Men Cotton Hat Women Fashion Sweatproof and Breathable Unisex Adjustable Hat",
-//     productPrice: 598,
-//     rating: 3.8,
-//   },
-//   {
-//     id: 119,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/51MORTuytNL._UL1200_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/51buJ8c2QqL._UX679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61IyywQhSrL._UX679_.jpg",
-//     productTitle: "Puma Unisex-Adult Cap",
-//     productPrice: 700,
-//     rating: 4.6,
-//   },
-//   {
-//     id: 120,
-//     category: "fashion",
-//     subCategory: "mensfashion",
-//     productImage1: "https://m.media-amazon.com/images/I/41YComssGEL.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61y2yFeWC9L._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61Gp7kphehL._UL1500_.jpg",
-//     productTitle: "Eaglebuzz Unisex Cotton Baseball Cap Black Free Size",
-//     productPrice: 498,
-//     rating: 3.5,
-//   },
-//   {
-//     id: 121,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71-agVsgaRL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/81304YkKzbL._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/81sGXBnmhtL._UL1500_.jpg",
-//     productTitle:
-//       "Lymio Tops for Women || Tops for Women Women Tops || Tops || top for Women || top || Women top (598-601)",
-//     productPrice: 249,
-//     rating: 3.6,
-//   },
-//   {
-//     id: 122,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/615pREhXdPL._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/616ZCYYLBwL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61Y9xfsn3WL._UY741_.jpg",
-//     productTitle: "Aahwan Women's & Girls' Solid Ribbed Square Neck Tank Tops",
-//     productPrice: 301,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 123,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61P3cFXpW8L._UY550_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61onqprKOyL._UY550_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/51XJmNgSzIL._UY550_.jpg",
-//     productTitle:
-//       "SIGHTBOMB Square Neck Puff Sleeves Ruched Waist Crop TOP for Women",
-//     productPrice: 499,
-//     rating: 3.9,
-//   },
-//   {
-//     id: 124,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61-eglgl4rL._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/51Lbkrb8RlL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61wUexnBoML._UY741_.jpg",
-//     productTitle: "Kotty Women's Relaxed Fit Cotton Jeans",
-//     productPrice: 598,
-//     rating: 4.7,
-//   },
-//   {
-//     id: 125,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1: "https://m.media-amazon.com/images/I/31Y4oZCtpUL.jpg",
-//     productImage2: "https://m.media-amazon.com/images/I/317vplB+SxL.jpg",
-//     productImage3: "https://m.media-amazon.com/images/I/318qw3nD9qL.jpg",
-//     productTitle: "KOTTY Women's Relaxed Jeans",
-//     productPrice: 497,
-//     rating: 3.4,
-//   },
-//   {
-//     id: 126,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61z0aa5PJ5L._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61+FqeKKUVL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61SUdzqROFL._UY741_.jpg",
-//     productTitle: "Allen Solly Women's Relaxed Fit Cotton Jean",
-//     productPrice: 1459,
-//     rating: 3.8,
-//   },
-//   {
-//     id: 127,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61LN-y1hC2L._UX425_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/8104GG3E1SL._UX425_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/51EuYqRlHRL._UX425_.jpg",
-//     productTitle: "Tommy Hilfiger Women T-Shirt",
-//     productPrice: 1499,
-//     rating: 3.9,
-//   },
-//   {
-//     id: 128,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71qV-M23duL._UX569_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71VZGfLh1kL._UX569_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71eLADwY94L._UX569_.jpg",
-//     productTitle: "Tommy Hilfiger Synthetic Shift Dress",
-//     productPrice: 2296,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 129,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/81XtXNsE8SL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71HORElj56L._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71mqcZ06arL._UL1500_.jpg",
-//     productTitle: "Tommy Hilfiger Women's Relaxed Pants",
-//     productPrice: 3149,
-//     rating: 3.7,
-//   },
-//   {
-//     id: 130,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/817oHzEETSL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/814JDMsLDdL._UY550_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/81zF4T10wQL._UY550_.jpg",
-//     productTitle: "Tommy Hilfiger Women's Slim Fit Pants",
-//     productPrice: 2388,
-//     rating: 3.2,
-//   },
-//   {
-//     id: 131,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/91ud7UGyBYL._UL1500_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/91KOUv3cD-L._UL1500_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/81+fdFV-hkL._UL1500_.jpg",
-//     productTitle: "Tommy Hilfiger Women's Striped Loose Fit Top",
-//     productPrice: 2759,
-//     rating: 2.7,
-//   },
-//   {
-//     id: 132,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/518Do9xAjUL._UX679_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61hJUOalaSL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61kYjgGHhVL._UY741_.jpg",
-//     productTitle:
-//       "true Browns Women's Light Green Bandhani Printed Silk Sleevesless Jacket Pant Set",
-//     productPrice: 3599,
-//     rating: 4.5,
-//   },
-//   {
-//     id: 133,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1: "https://m.media-amazon.com/images/I/4120oLV7J+S.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71eAcfNzIwS._UY679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/712u+XPBZJS._UY679_.jpg",
-//     productTitle: "Masaba Bud Sharara Set",
-//     productPrice: 4999,
-//     rating: 4.2,
-//   },
-//   {
-//     id: 134,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/81KOnn1GW+L._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/81VicLMHLaL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/81dBk++C9+L._UY741_.jpg",
-//     productTitle: "Label RITU KUMAR Blue Floral Print Maxi Dress",
-//     productPrice: 3450,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 135,
-//     category: "fashion",
-//     subCategory: "womensfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/517-Ux68fOL._UX522_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/51BLJUyNFrL._UX522_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/51fpBH0eLbL._UX522_.jpg",
-//     productTitle: "Levi's Women's Western Casual Pants",
-//     productPrice: 1019,
-//     rating: 3.7,
-//   },
-//   {
-//     id: 136,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/51P1J97tb4L._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/817hcGA4BwL._UX679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/91LGFFOX+kL._UY741_.jpg",
-//     productTitle: "TAGAS Baby-Girls Dress",
-//     productPrice: 459,
-//     rating: 3.8,
-//   },
-//   {
-//     id: 137,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/51UjUExg-FL._UX679_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/51zxl7-r+0L._UX679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/51iu1ikmxcL._UX679_.jpg",
-//     productTitle: "My Lil Princess Girls' Dress",
-//     productPrice: 949,
-//     rating: 4.5,
-//   },
-//   {
-//     id: 138,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/51tADDC2BNL._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/618lhBfmZ3L._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/514Y5mWAmVL._UY741_.jpg",
-//     productTitle: "Naughty Ninos Girl's Regular Overalls",
-//     productPrice: 549,
-//     rating: 4.6,
-//   },
-//   {
-//     id: 139,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71Bs+95oCOL._UX679_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/513qvVES9VL._UX679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/617wCli+p1L._UX679_.jpg",
-//     productTitle:
-//       "Kuchipoo Boys Regular Fit Cotton T-Shirt - Combo of 5 (KUC-TSHRT-149)",
-//     productPrice: 551,
-//     rating: 2.9,
-//   },
-//   {
-//     id: 140,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71Xil6TWrtL._UX569_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71gHMfYFS0L._UX569_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71s9ggm6WWL._UX569_.jpg",
-//     productTitle: "Amazon Brand - Jam & Honey Boy's Regular Fit T-Shirt",
-//     productPrice: 776,
-//     rating: 3.5,
-//   },
-//   {
-//     id: 141,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/91SuBZTLMGL._UX679_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/91SK9JhATWL._UX679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/91ZulQ5lX9L._UX569_.jpg",
-//     productTitle: "Allen Solly Junior Boy's T-Shirt",
-//     productPrice: 490,
-//     rating: 3.6,
-//   },
-//   {
-//     id: 142,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61k-7wDEdtL._UX522_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61B61+Lw+KL._UX522_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61tuwvy2n+L._UX522_.jpg",
-//     productTitle:
-//       "EIO® 100% Cotton Rompers Sleepsuits Jumpsuit Night Suits for Infants Newborn Baby Boys & Girls Pack of 3",
-//     productPrice: 599,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 143,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/51l2P47f0YL._UX466_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/51DShlKIvRL._UX466_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61C2+Ag1ybL._UX466_.jpg",
-//     productTitle:
-//       "Googogaaga Boy's Cotton Dino Printed T-shirt With Shorts Sets of baby boys clothing Sets",
-//     productPrice: 468,
-//     rating: 4.4,
-//   },
-//   {
-//     id: 144,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/81xt5yh6nTL._UX522_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/81nwAU9NhtL._UX522_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/91uK+0GdQOL._UX522_.jpg",
-//     productTitle:
-//       "ARIEL Baby Boys & Baby girls Cotton Printed Round Neck Half Sleeve T-shirt & Short Latest Summer Clothing Sets",
-//     productPrice: 284,
-//     rating: 3.6,
-//   },
-//   {
-//     id: 145,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/710Rr6g0U4L._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71pP7CcTyeL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71m6MOW3beL._UY741_.jpg",
-//     productTitle: "Arshia Fashions Suit Set for Girls |Kurta Pajama",
-//     productPrice: 599,
-//     rating: 4.1,
-//   },
-//   {
-//     id: 146,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/81NPsP8uHFL._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71S0JEm0IRL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71ju00zEbnL._UY741_.jpg",
-//     productTitle:
-//       "AHHAAAA Kids Ethnic Banarasi Silk Waistcoat Kurta and Pyjama Set for Boys",
-//     productPrice: 1199,
-//     rating: 3.6,
-//   },
-//   {
-//     id: 147,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71OqojNLjiL._UY741_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71l89jh5bpL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71+il3AgwmL._UY741_.jpg",
-//     productTitle: "ADIVA Girl's Silk Blend Readymade Lehenga Choli Set",
-//     productPrice: 1235,
-//     rating: 4.6,
-//   },
-//   {
-//     id: 148,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/81ujbvQj8sL._UX679_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71rb-7rHZtL._UY741_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/916NXJfPFmL._UY741_.jpg",
-//     productTitle:
-//       "TotzTouch Cotton Girls Night Wear T Shirt & Pyjama | Night Dress for Girl Kids | Night Dresses Tee Top & Pajama Pant Set of 3 & 2 (Size Options - Age 6 Months to 10 Years)",
-//     productPrice: 1044,
-//     rating: 4.2,
-//   },
-//   {
-//     id: 149,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/61ZHnnxGnoL._UX569_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/61qa+kejK4L._UX569_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/61xFv0A-IbL._UX569_.jpg",
-//     productTitle:
-//       "superminis Boy's & Girl's Cotton Printed Night Suit Set Pack of 1",
-//     productPrice: 499,
-//     rating: 4.5,
-//   },
-//   {
-//     id: 150,
-//     category: "fashion",
-//     subCategory: "kidsfashion",
-//     productImage1:
-//       "https://m.media-amazon.com/images/I/71GVE1XdOXL._UX679_.jpg",
-//     productImage2:
-//       "https://m.media-amazon.com/images/I/71ZO7OAAngL._UX679_.jpg",
-//     productImage3:
-//       "https://m.media-amazon.com/images/I/71BmUH+tgGL._UX569_.jpg",
-//     productTitle:
-//       "Chheent Boy's & Girl's Cotton All Over Print Sleep Suit, Comfortable Night Suit for Girls and Boys Pack of 1",
-//     productPrice: 1135,
-//     rating: 4.8,
-//   },
+//  
 //   {
 //     id: 151,
 //     category: "homeandkitchen",
@@ -6843,7 +6853,7 @@ const headphones = async (req, res) => {
   const data = await productsModel.find({ subCategory: "headphones" });
   res.send(data);
 };
-const televisionAndVideo = async (req, res) => {
+const television = async (req, res) => {
   const data = await productsModel.find({ subCategory: "televisionandvideo" });
   res.send(data);
 };
@@ -6855,18 +6865,23 @@ const phones = async (req, res) => {
   const data = await productsModel.find({ subCategory: "cellphonesandaccessories" });
   res.send(data);
 };
-// const mensFashion = async (req, res) => {
-//   const data = await productsModel.find({ subCategory: "mensfashion" });
-//   res.send(data);
-// };
-// const womensFashion = async (req, res) => {
-//   const data = await productsModel.find({ subCategory: "womensfashion" });
-//   res.send(data);
-// };
-// const kidsFashion = async (req, res) => {
-//   const data = await productsModel.find({ subCategory: "kidsfashion" });
-//   res.send(data);
-// };
+const fashion = async (req, res) => {
+  const data = await productsModel.find({ subCategory: "fashion" });
+  res.send(data);
+};
+const mensFashion = async (req, res) => {
+  const data = await productsModel.find({ subCategory: "mensfashion" });
+  res.send(data);
+};
+const womensFashion = async (req, res) => {
+  const data = await productsModel.find({ subCategory: "womensfashion" });
+  res.send(data);
+};
+const kidsFashion = async (req, res) => {
+  const data = await productsModel.find({ subCategory: "kidsfashion" });
+  res.send(data);
+};
+
 // const homeAndKitchen = async (req, res) => {
 //   const data = await productsModel.find({ category: "homeandkitchen" });
 //   res.send(data);
@@ -6965,14 +6980,14 @@ module.exports = {
   cellPhonesAndAccessories,
   computersAndAccessories,
   headphones,
-  televisionAndVideo,
+  television,
   smartHome,
   laptops,
   phones,
-//   fashion,
-//   mensFashion,
-//   womensFashion,
-//   kidsFashion,
+  fashion,
+  mensFashion,
+  womensFashion,
+  kidsFashion,
 //   homeAndKitchen,
 //   kitchenAndDining,
 //   furniture,
