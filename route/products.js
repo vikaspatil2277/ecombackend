@@ -10,7 +10,10 @@ const {
      womensFashion,
      kidsFashion,
      mixed,
+     
     } = require("../controller/products")
+
+
 const productsRouter = express.Router();
 
 productsRouter.post('/adddata', addData)

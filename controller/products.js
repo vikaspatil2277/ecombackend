@@ -1774,211 +1774,211 @@ const data = [
 
 
       
-{
-  id: 151,
-  category: "electronics",
-  subCategory: "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71qjUzUt+ML._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/71kvEYMIYFL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/61TvnnwtqZL._SL1500_.jpg",
-  productTitle: "OnePlus 11R 5G(Sonic Black, 8GB RAM, 128GB Storage) ",
-  productPrice: 39999,
-  rating: 4.3,
+      {
+        id: 151,
+ category: "electronics",
+ subCategory: "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71qjUzUt+ML._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/71kvEYMIYFL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/61TvnnwtqZL._SL1500_.jpg",
+ productTitle: "OnePlus 11R 5G(Sonic Black, 8GB RAM, 128GB Storage) ",
+ productPrice: 39999,
+ rating: 4.3,
 },
 
 
 {
-  id: 152,
-  category: "electronics",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71Ftzmh3XWL._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/81y5GkulK5L._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/71H6mqexb8L._SL1500_.jpg",
-  productTitle:
-    "realme narzo N55 (Prime Blue, 4GB+64GB) 33W Segment Fastest Charging | Super High-res 64MP Primary AI Camera",
-  productPrice: 10999,
-  rating: 4.1,
-},
-
-
-
-{
-  id: 153,
-  category: "electronics",
-  subCategory: "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71iiXU7HHkL._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/61atYCE26YL._SL1100_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/71G4myYJuAL._SL1500_.jpg",
-  productTitle:
-    "Xiaomi NotebookPro QHD+ IPS AntiGlare Display Intel Core i5-11300H 11th Gen 14 inch(35.56 cm) Thin & Light Laptop(8GB/512GB SSD/Iris Xe Graphics/Windows 11/MS Office 21/Backlight KB/FP Sensor/1.4 Kg)",
-  productPrice: 61999,
-  rating: 4.6,
+ id: 152,
+ category: "electronics",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71Ftzmh3XWL._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/81y5GkulK5L._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/71H6mqexb8L._SL1500_.jpg",
+ productTitle:
+   "realme narzo N55 (Prime Blue, 4GB+64GB) 33W Segment Fastest Charging | Super High-res 64MP Primary AI Camera",
+ productPrice: 10999,
+ rating: 4.1,
 },
 
 
 
 {
-  id: 154,
-  category: "electronics",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/61eTPcEsC+L._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/81HH34WFHZL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/813PAIbmkpL._SL1500_.jpg",
-  productTitle:
-    "ASUS Vivobook Pro 15, AMD Ryzen 5 5600H, 15.6(39.62 cm) FHD, Thin & Light Laptop(16GB / 512GB SSD / 4GB NVIDIA GeForce RTX 3050 / Windows 11 / Office 2021 / Backlit / Fingerprint / Blue / 1.80 kg), M6500QC - HN541WS",
-  productPrice: 63990,
-  rating: 4.3,
+ id: 153,
+ category: "electronics",
+ subCategory: "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71iiXU7HHkL._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/61atYCE26YL._SL1100_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/71G4myYJuAL._SL1500_.jpg",
+ productTitle:
+   "Xiaomi NotebookPro QHD+ IPS AntiGlare Display Intel Core i5-11300H 11th Gen 14 inch(35.56 cm) Thin & Light Laptop(8GB/512GB SSD/Iris Xe Graphics/Windows 11/MS Office 21/Backlight KB/FP Sensor/1.4 Kg)",
+ productPrice: 61999,
+ rating: 4.6,
 },
 
 
 
 {
-  id: 155,
-  category: "electronics",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/81Vs371KLML._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/51hzfHGxnZL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/81+Ivpw21aL._SL1500_.jpg",
-  productTitle:
-    "Samsung Galaxy Tab S8 27.94 cm (11 inch) Display, RAM 8 GB, ROM 128 GB Expandable, S Pen in-Box, Wi-Fi Tablet, Graphite",
-  productPrice: 54999,
-  rating: 4.5,
-},
-
-
-{
-  id: 156,
-  category: "electronics",
-  subCategory: "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71RhIMc2TBL._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/71Q2yVuz5oL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/71Slm2lTKPL._SL1500_.jpg",
-  productTitle:
-    "Samsung 138 cm (55 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA55AUE65AKXXL (Black)",
-  productPrice: 46990,
-  rating: 3.5,
+ id: 154,
+ category: "electronics",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/61eTPcEsC+L._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/81HH34WFHZL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/813PAIbmkpL._SL1500_.jpg",
+ productTitle:
+   "ASUS Vivobook Pro 15, AMD Ryzen 5 5600H, 15.6(39.62 cm) FHD, Thin & Light Laptop(16GB / 512GB SSD / 4GB NVIDIA GeForce RTX 3050 / Windows 11 / Office 2021 / Backlit / Fingerprint / Blue / 1.80 kg), M6500QC - HN541WS",
+ productPrice: 63990,
+ rating: 4.3,
 },
 
 
 
 {
-  id: 157,
-  category: "electronics",
-  subCategory: "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/81+JXgPUDLL._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/81SCXU879zL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/81ZJ2jRyzYL._SL1500_.jpg",
-  productTitle:
-    "Samsung 138 cm (55 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA55CUE60AKLXL (Black)",
-  productPrice: 47990,
-  rating: 3.9,
+ id: 155,
+ category: "electronics",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/81Vs371KLML._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/51hzfHGxnZL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/81+Ivpw21aL._SL1500_.jpg",
+ productTitle:
+   "Samsung Galaxy Tab S8 27.94 cm (11 inch) Display, RAM 8 GB, ROM 128 GB Expandable, S Pen in-Box, Wi-Fi Tablet, Graphite",
+ productPrice: 54999,
+ rating: 4.5,
+},
+
+
+{
+ id: 156,
+ category: "electronics",
+ subCategory: "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71RhIMc2TBL._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/71Q2yVuz5oL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/71Slm2lTKPL._SL1500_.jpg",
+ productTitle:
+   "Samsung 138 cm (55 inches) Crystal 4K Neo Series Ultra HD Smart LED TV UA55AUE65AKXXL (Black)",
+ productPrice: 46990,
+ rating: 3.5,
 },
 
 
 
 {
-  id: 158,
-  category: "fashion",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71V0UjkEnpL._UL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/81Ag3+FM-TL._UL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/71KNiM4dNKL._UL1500_.jpg",
-  productTitle:
-    "Maniac Mens Printed Round Neck Half Sleeve Purple and White Cotton Oversized T-Shirt",
-  productPrice: 599,
-  rating: 3.9,
+ id: 157,
+ category: "electronics",
+ subCategory: "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/81+JXgPUDLL._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/81SCXU879zL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/81ZJ2jRyzYL._SL1500_.jpg",
+ productTitle:
+   "Samsung 138 cm (55 inches) Crystal iSmart 4K Ultra HD Smart LED TV UA55CUE60AKLXL (Black)",
+ productPrice: 47990,
+ rating: 3.9,
 },
 
 
 
 {
-  id: 159,
-  category: "fashion",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71T-utEUZxL._UL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/911y3EHluiL._UL1440_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/81OvQDjG0rL._UL1440_.jpg",
-  productTitle:
-    "Dennis Lingo Men's Striped Slim Fit Oxford Cotton Casual Shirt with Button Down Collar & Full Sleeves",
-  productPrice: 690,
-  rating: 4.7,
+ id: 158,
+ category: "fashion",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71V0UjkEnpL._UL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/81Ag3+FM-TL._UL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/71KNiM4dNKL._UL1500_.jpg",
+ productTitle:
+   "Maniac Mens Printed Round Neck Half Sleeve Purple and White Cotton Oversized T-Shirt",
+ productPrice: 599,
+ rating: 3.9,
+},
+
+
+
+{
+ id: 159,
+ category: "fashion",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71T-utEUZxL._UL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/911y3EHluiL._UL1440_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/81OvQDjG0rL._UL1440_.jpg",
+ productTitle:
+   "Dennis Lingo Men's Striped Slim Fit Oxford Cotton Casual Shirt with Button Down Collar & Full Sleeves",
+ productPrice: 690,
+ rating: 4.7,
 },
 
 
 {
-  id: 160,
-  category: "fashion",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/61P3cFXpW8L._UY550_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/61onqprKOyL._UY550_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/51XJmNgSzIL._UY550_.jpg",
-  productTitle:
-    "SIGHTBOMB Square Neck Puff Sleeves Ruched Waist Crop TOP for Women",
-  productPrice: 499,
-  rating: 3.9,
+ id: 160,
+ category: "fashion",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/61P3cFXpW8L._UY550_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/61onqprKOyL._UY550_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/51XJmNgSzIL._UY550_.jpg",
+ productTitle:
+   "SIGHTBOMB Square Neck Puff Sleeves Ruched Waist Crop TOP for Women",
+ productPrice: 499,
+ rating: 3.9,
 },
 
 {
-  id: 161,
-  category: "electronics",
-  subCategory: "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/71jG+e7roXL._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/71-6roO29AL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/71z-1j187cL._SL1500_.jpg",
-  productTitle:
-    "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
-  productPrice: 79990,
-  rating: 4.1,
+ id: 161,
+ category: "electronics",
+ subCategory: "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/71jG+e7roXL._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/71-6roO29AL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/71z-1j187cL._SL1500_.jpg",
+ productTitle:
+   "Apple 2020 MacBook Air Laptop M1 chip, 13.3-inch/33.74 cm Retina Display, 8GB RAM, 256GB SSD Storage, Backlit Keyboard, FaceTime HD Camera, Touch ID. Works with iPhone/iPad; Space Grey",
+ productPrice: 79990,
+ rating: 4.1,
 },
 
 
 {
-  id: 162,
-  category: "electronics",
-  subCategory:  "mixed",
-  productImage1:
-    "https://m.media-amazon.com/images/I/81Tib6mb8eL._SL1500_.jpg",
-  productImage2:
-    "https://m.media-amazon.com/images/I/81Tm8cPEMFL._SL1500_.jpg",
-  productImage3:
-    "https://m.media-amazon.com/images/I/71SVJdxBRuL._SL1500_.jpg",
-  productTitle:
-    "Canon Digital Camera EOS R100 RF-S18-45mm is STM Kit (Black)",
-  productPrice: 64990,
-  rating: 4.8,
+ id: 162,
+ category: "electronics",
+ subCategory:  "mixed",
+ productImage1:
+   "https://m.media-amazon.com/images/I/81Tib6mb8eL._SL1500_.jpg",
+ productImage2:
+   "https://m.media-amazon.com/images/I/81Tm8cPEMFL._SL1500_.jpg",
+ productImage3:
+   "https://m.media-amazon.com/images/I/71SVJdxBRuL._SL1500_.jpg",
+ productTitle:
+   "Canon Digital Camera EOS R100 RF-S18-45mm is STM Kit (Black)",
+ productPrice: 64990,
+ rating: 4.8,
 },
 
 
@@ -1986,10 +1986,20 @@ const data = [
 
 ];
 
+
+
+
+
+
+  
+
+
 const addData = async (req, res) => {
   await productsModel.insertMany(data);
   res.send("Data added successfully");
 };
+
+
 const allData = async (req, res) => {
     const data = await productsModel.find();
     res.send(data);
@@ -2043,5 +2053,6 @@ module.exports = {
   mensFashion,
   womensFashion,
   kidsFashion,
+
 
 };
