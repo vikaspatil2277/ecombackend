@@ -12,7 +12,6 @@ const {
      mixed,
      
     } = require("../controller/products");
-const verifyUser = require("../middleware/middleware");
 
 
 const productsRouter = express.Router();
@@ -22,7 +21,7 @@ productsRouter.get('/alldata', allData)
 productsRouter.get('/mixed', mixed)
 
 
-productsRouter.get('/television',verifyUser, television)
+productsRouter.get('/television', television)
 
 productsRouter.get('/fashion', fashion)
 productsRouter.get('/mensfashion', mensFashion)
